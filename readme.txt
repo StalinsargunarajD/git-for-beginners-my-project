@@ -1,4 +1,4 @@
 Welcome to MyProject!
 
-Author: Stalin
+Author: Stalin Duraisingh 
 Twitter: @Stalinsargunaraj
